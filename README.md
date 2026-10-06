@@ -1,10 +1,11 @@
-# Booklue
+#verifyied
+Emmy recent
 
-A Social media for book enthusiasts.
 
-Please refer to the **[front-end repo](https://github.com/EmmyRecent/Booklue-front-end)** for more information about Booklue.
 
-## 💻 Technologies
+https://drive.google.com/file/d/15CNIO8j2ZALncBhv4BqzdS6UcFCVYfiR/view?usp=drivesdk
+
+## 
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
